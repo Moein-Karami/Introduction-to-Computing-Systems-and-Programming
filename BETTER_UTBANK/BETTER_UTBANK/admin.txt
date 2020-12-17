@@ -1,0 +1,17 @@
+2 2
+moein
+1
+1
+0
+45
+3
+deposit 100
+withdraw -50
+transfer_to_ali -5
+ali
+2
+2
+1
+5
+1
+transfer_from_moein 5

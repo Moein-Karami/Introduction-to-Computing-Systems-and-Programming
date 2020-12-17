@@ -1,0 +1,56 @@
+﻿  bgiout.cxx
+  check_block.cpp
+  check_possibility_of_cell.cpp
+  check_possibility_of_new_move.cpp
+  dibutil.cxx
+  drawing.cxx
+drawing.cxx(819): warning C4101: 'tries': unreferenced local variable
+drawing.cxx(859): warning C4101: 'answer': unreferenced local variable
+drawing.cxx(1110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  draw_circle.cpp
+  draw_rect.cpp
+  file.cxx
+  get_input.cpp
+  Initialization.cpp
+Initialization.cpp(5): warning C4101: 'k': unreferenced local variable
+  make_changes_of_new_move.cpp
+  misc.cxx
+misc.cxx(595): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+misc.cxx(596): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+misc.cxx(597): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+misc.cxx(598): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+misc.cxx(599): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+  mouse.cxx
+  move_rect.cpp
+move_rect.cpp(7): warning C4101: 'j': unreferenced local variable
+move_rect.cpp(7): warning C4101: 'i': unreferenced local variable
+  othello.cpp
+  palette.cxx
+  main.cxx
+main.cxx(189): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cxx(192): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cxx(195): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cxx(333): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+main.cxx(367): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.cxx(388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cxx(397): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  print_grid.cpp
+  remake_grid.cpp
+  Compiling...
+  text.cxx
+text.cxx(348): warning C4018: '<': signed/unsigned mismatch
+  winbgi.cxx
+winbgi.cxx(81): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+winbgi.cxx(134): warning C4101: 'actual_color': unreferenced local variable
+winbgi.cxx(133): warning C4101: 'bgi_color': unreferenced local variable
+winbgi.cxx(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  winthread.cxx
+winthread.cxx(320): warning C4101: 'i': unreferenced local variable
+LINK : warning LNK4031: no subsystem specified; CONSOLE assumed
+  Generating code
+  All 495 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  bgi.vcxproj -> F:\Uni\Mabani\ADDITIONAL OTHELLO\bgi\Release\bgi.exe
+  bgi.vcxproj -> F:\Uni\Mabani\ADDITIONAL OTHELLO\bgi\Release\bgi.pdb (Full PDB)

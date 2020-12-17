@@ -1,0 +1,12 @@
+﻿  CA1P2_810198540.c
+f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(39): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(39): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(39): note: the missing variadic argument 2 is required by format string '%c'
+  f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(39): note: this argument is used as a buffer size
+f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(101): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(101): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(101): note: the missing variadic argument 2 is required by format string '%c'
+  f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(101): note: this argument is used as a buffer size
+f:\uni\mabani\project1,phase2\project1,phase2\ca1p2_810198540.c(70): warning C4101: 'i': unreferenced local variable
+  Project1,Phase2.vcxproj -> F:\Uni\Mabani\Project1,Phase2\Debug\Project1,Phase2.exe
+  Project1,Phase2.vcxproj -> F:\Uni\Mabani\Project1,Phase2\Debug\Project1,Phase2.pdb (Full PDB)
